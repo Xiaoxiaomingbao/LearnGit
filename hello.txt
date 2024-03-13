@@ -4,3 +4,5 @@ Hello Git!
 Hello Git! git master
 Hello Git! git HotFix
 Hello Git!
+
+I want to test the function of pull!
